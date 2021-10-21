@@ -1,5 +1,5 @@
 The code is written using Matlab's Live Editor.
-It's pretty much self-explanatory, but the following paper should help understand the mathematical background:
+It's pretty much self-explanatory, but the following papers should help understand the mathematical background:
 
 Aerospace 2020, 7(9), 122; https://doi.org/10.3390/aerospace7090122
 
